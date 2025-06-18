@@ -53,4 +53,3 @@ Melhorar o pipeline de CI/CD atual da organização com foco em:
 - Gene Kim, *The Phoenix Project* (2013)
 - DevOps Handbook (Kim, Humble, Debois, Willis)
 
-"""
